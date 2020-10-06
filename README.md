@@ -11,13 +11,11 @@
 
 - 🤝 I’m looking for help with [UTARian](https://github.com/utarian)
 
-- 👨‍💻 All of my profile are available at [https://jerrychong.tk/](https://jerrychong.tk/)
+- 👨‍💻 All of my profile details are available at [https://jerrychong.tk/](https://jerrychong.tk/)
 
-- 💬 Ask me about **AWS, Alibaba Cloud, Node.js, REST API, Android (Java & Kotlin), iOS (Swift)**
+- 📫 Connect me via **jerrychong25@gmail.com**
 
-- 📫 How to reach me **jerrychong25@gmail.com**
-
-- ⚡ Fun fact **Graduated from Mechatronics Engineering background**
+- ⚡ Fun fact **Software Engineer with Mechatronics Engineering background**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
