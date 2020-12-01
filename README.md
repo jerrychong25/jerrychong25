@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrychong25" alt="jerrychong25" /> </p>
 
-- 🔭 I’m currently working on [IEEE MySIGHT4Rehab](https://github.com/ieeemysight4rehab)
+- 🔭 I’m currently working on [UTARian](https://github.com/utarian)
 
 - 🌱 I’m currently learning **Vue & DevOps**
 
