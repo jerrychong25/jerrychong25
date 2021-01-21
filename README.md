@@ -15,7 +15,7 @@
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
-- ⚡ Fun fact **Software Engineer with Mechatronics Engineering background**
+- ⚡ Fun fact **Full Stack Engineer with Mechatronics background**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
