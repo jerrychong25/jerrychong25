@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [UTARian](https://github.com/utarian)
 
-- 🌱 I’m currently learning **Vue & DevOps**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on [UTARian](https://github.com/utarian)
 
@@ -18,7 +18,7 @@
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
-- ⚡ Fun fact **Full Stack Engineer with Mechatronics background**
+- ⚡ Fun fact **Full Stack Engineer with Mechatronics (Mechanical + Electronic) background**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
