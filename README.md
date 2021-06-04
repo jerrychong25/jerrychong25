@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Jerry Chong 👋</h1>
+<h1 align="center">Hello there 👋 I'm Jerry Chong 🇲🇾</h1>
 <h3 align="center">A Passionate Consultant in Accenture @ Kuala Lumpur, Malaysia</h3>
 
 <p align="left"> 
