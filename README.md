@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 I'm Jerry Chong 🇲🇾</h1>
-<h3 align="center">A Passionate Consultant in Accenture @ Kuala Lumpur, Malaysia</h3>
+<h3 align="center">A Passionate Consultant @ Kuala Lumpur, Malaysia | Ex-Accenture</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychong25" />
@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [UTARian](https://github.com/utarian)
 
-- 👨‍💻 All of my profile details are available at [https://jerrychong.tk/](https://jerrychong.tk/)
+- 👨‍💻 All of my profile details are available at [https://jerrychong.tk](https://jerrychong.tk/)
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
