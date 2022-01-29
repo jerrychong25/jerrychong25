@@ -12,19 +12,19 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerrychong25" alt="jerrychong25" /></a>
 </p>
 
-- 🔭 I’m currently working on [UTARian](https://github.com/utarian)
+- 🔭 I’m currently working on [map-data](https://github.com/jerrychong25/map-data)
 
-- 🌱 I’m currently learning **Project Management**
+- 🌱 I’m currently learning **Smart Cities**
 
-- 👯 I’m looking to collaborate on [UTARian](https://github.com/utarian)
+- 👯 I’m looking to collaborate on [map-data](https://github.com/jerrychong25/map-data)
 
-- 🤝 I’m looking for help with [UTARian](https://github.com/utarian)
+- 🤝 I’m looking for help with [map-data](https://github.com/jerrychong25/map-data)
 
 - 👨‍💻 All of my profile details are available at [https://jerrychong.tk](https://jerrychong.tk/)
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
-- ⚡ Fun fact **Consultant cum Full Stack Engineer with Mechatronics backgrounds**
+- ⚡ Fun fact **Ex-Consultant cum Full Stack Engineer with Mechatronics backgrounds**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
