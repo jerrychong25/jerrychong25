@@ -42,3 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrychong25&show_icons=true&include_all_commits=true&count_private=true" alt="jerrychong25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
+
+<!--   GitHub stats graph -->
+<!--   ### 📈 GitHub Activity Graph: -->
+![Jerry Chong's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jerrychong25&hide_border=true&theme=github-light)
