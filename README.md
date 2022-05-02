@@ -42,6 +42,11 @@
 <a href="https://www.hackerrank.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jerrychong25" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<h3 align="left">Sponsor Me</h3>
+<a href="https://www.buymeacoffee.com/jerrychong25"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychong25&layout=compact&langs_count=10" alt="jerrychong25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrychong25&show_icons=true&include_all_commits=true&count_private=true" alt="jerrychong25" /></p>
