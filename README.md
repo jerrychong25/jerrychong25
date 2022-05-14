@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
-- 🌱 I’m currently learning **Smart Cities**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
 - 🤝 I’m looking for help with [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
-- 👨‍💻 All of my profile details are available at [https://jerrychong.tk](https://jerrychong.tk/)
+- 👨‍💻 All of my profile details are available at [https://jerrychong.xyz](https://jerrychong.xyz/)
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
