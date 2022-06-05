@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Jerry Chong 🇲🇾</h1>
-<h3 align="center">A Passionate Consultant @ Kuala Lumpur, Malaysia | Ex-Accenture</h3>
+<h3 align="center">A Passionate CTO @ Kuala Lumpur, Malaysia</h3>
+<h3 align="center">CTO | Ex-Accenture | Cloud | IoT | 5X Multi-Cloud Certified</h3>
 <h3 align="center">Certified in AWS, Microsoft Azure, Alibaba Cloud & Terraform</h3>
 
 <br/>
