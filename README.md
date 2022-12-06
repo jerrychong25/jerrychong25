@@ -58,4 +58,4 @@
 
 <!--   GitHub stats graph -->
 <!--   ### 📈 GitHub Activity Graph: -->
-<img src="https://activity-graph.herokuapp.com/graph?username=jerrychong25&hide_border=true&theme=github-light" alt="Jerry Chong's GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jerrychong25&theme=vue" alt="Jerry Chong's GitHub activity graph"/>
