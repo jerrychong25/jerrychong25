@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule Updates (Everyday 8am)
+  schedule: [{cron: "0 8 * * *"}]
   push:
     branches:
       - main
