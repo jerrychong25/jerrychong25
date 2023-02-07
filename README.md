@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning random stuffs everyday
 
-- 👯 I’m looking to collaborate on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
+- 👯 I’m looking to collaborate on any ideas
 
 - 🤝 I’m looking for help with [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
@@ -26,7 +26,7 @@
 
 - 📫 Connect me via **jerrychong25@gmail.com**
 
-- ⚡ Fun fact **Ex-Consultant cum Full Stack Engineer with Mechatronics backgrounds**
+- ⚡ Fun fact **Ex-Consultant from Mechatronics Engineering backgrounds**
 
 <p align="left">
 <h3 align="left">Skills</h3>
@@ -59,3 +59,5 @@
 <!--   GitHub stats graph -->
 <!--   ### 📈 GitHub Activity Graph: -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jerrychong25&theme=vue" alt="Jerry Chong's GitHub activity graph"/>
+
+![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
