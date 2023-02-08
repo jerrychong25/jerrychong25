@@ -48,8 +48,6 @@
 <a href="https://www.buymeacoffee.com/jerrychong25"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychong25&layout=compact&langs_count=10" alt="jerrychong25" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrychong25&show_icons=true&include_all_commits=true&count_private=true" alt="jerrychong25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
