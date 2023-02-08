@@ -10,9 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.jerrychong25" alt="visitors"/>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerrychong25" alt="jerrychong25" /></a>
-</p>
+Some facts:
 
 - 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
