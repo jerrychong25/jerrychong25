@@ -48,12 +48,10 @@ Some facts:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrychong25&show_icons=true&include_all_commits=true&count_private=true" alt="jerrychong25" /></p>
 
+![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerrychong25&theme=vue" alt="jerrychong25" /></p>
-
-<!--   GitHub stats graph -->
+<!--   GitHub Stats Graph -->
 <!--   ### 📈 GitHub Activity Graph: -->
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jerrychong25&theme=vue" alt="Jerry Chong's GitHub activity graph"/>
-
-![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
