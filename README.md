@@ -46,8 +46,6 @@ Some facts:
 <a href="https://www.buymeacoffee.com/jerrychong25"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrychong25&show_icons=true&include_all_commits=true&count_private=true" alt="jerrychong25" /></p>
-
 ![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
