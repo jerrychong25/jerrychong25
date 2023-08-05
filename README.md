@@ -49,7 +49,3 @@ Some facts:
 ![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
-
-<!--   GitHub Stats Graph -->
-<!--   ### 📈 GitHub Activity Graph: -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jerrychong25&theme=vue" alt="Jerry Chong's GitHub activity graph"/>
