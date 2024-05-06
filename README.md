@@ -12,7 +12,7 @@
 
 Some facts:
 
-- 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
+- 🔭 I’m currently working on [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) and [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 
 - 🌱 I’m currently learning random stuffs everyday
 
