@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Jerry Chong 🇲🇾</h1>
-<h3 align="center">A Passionate Solution Architect @ Kuala Lumpur, Malaysia</h3>
-<h3 align="center">Solution Architect | Ex-CTO | Ex-Accenture | Cloud Architecture | IoT | 5X Multi-Cloud Certified</h3>
-<h3 align="center">Certified in AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
+<h3 align="center">A Passionate Enterprise Architect @ Kuala Lumpur, Malaysia</h3>
+<h3 align="center">Solutions Architect | CEO | CTO | Ex-Accenture | Cloud Architecture | IoT | 5X Multi-Cloud Certified</h3>
+<h3 align="center">Certified in SAP LeanIX, AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
 
 <br/>
 <p align="left"> 
@@ -22,7 +22,7 @@ Some facts:
 
 - 👨‍💻 All of my profile details are available at [https://jerrychong.xyz](https://jerrychong.xyz/)
 
-- 📫 Connect me via **jerrychong25@gmail.com**
+- 📫 Connect me via **jerry@infrev.com**
 
 - ⚡ Fun fact **Ex-Consultant from Mechatronics Engineering backgrounds**
 
