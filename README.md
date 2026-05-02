@@ -3,11 +3,13 @@
 <h3 align="center">Solution Architect | Ex-CTO | Ex-Accenture | Cloud Architecture | IoT | 5X Multi-Cloud Certified</h3>
 <h3 align="center">Certified in AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
 
+I am Jerry Chong, a solution architect based in Kuala Lumpur, Malaysia, focused on cloud architecture, IoT, platform engineering, and multi-cloud solution design. This profile highlights my current work, certifications, technical skills, open collaboration interests, and the best ways to connect with me.
+
 <br/>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychong25" />
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.jerrychong25" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="Jerry Chong GitHub profile view counter" />
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Jerry Chong GitHub profile hit counter"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.jerrychong25" alt="Jerry Chong GitHub visitor badge"/>
 </p>
 
 Some facts:
@@ -32,20 +34,20 @@ Some facts:
 
 <p align="left">
 <h3 align="left">Connect With Me</h3>
-<a href="https://linkedin.com/in/jerry-chong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jerry-chong" height="30" width="40" /></a>
-<a href="https://twitter.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jerrychong25" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5918539" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5918539" height="30" width="40" /></a>
-<a href="https://dev.to/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerrychong25" height="30" width="40" /></a>
-<a href="https://codepen.io/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jerrychong25" height="30" width="40" /></a>
-<a href="https://kaggle.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jerrychong25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jerrychong25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jerry-chong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jerry Chong on LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jerry Chong on X" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5918539" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Jerry Chong on Stack Overflow" height="30" width="40" /></a>
+<a href="https://dev.to/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Jerry Chong on DEV Community" height="30" width="40" /></a>
+<a href="https://codepen.io/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Jerry Chong on CodePen" height="30" width="40" /></a>
+<a href="https://kaggle.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Jerry Chong on Kaggle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jerrychong25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Jerry Chong on HackerRank" height="30" width="40" /></a>
 </p>
 
 <p align="left">
 <h3 align="left">Sponsor Me</h3>
-<a href="https://www.buymeacoffee.com/jerrychong25"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/jerrychong25"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support Jerry Chong on Buy Me a Coffee" width="200" /></a>
 </p>
 
-![Metrics](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
+![Jerry Chong GitHub metrics dashboard](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="jerrychong25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue" alt="Jerry Chong GitHub contribution streak statistics" /></p>
