@@ -24,7 +24,7 @@ class TestSEOStandards(unittest.TestCase):
         self.assertEqual(total_h1, 1, "README should expose exactly one primary H1 heading.")
 
     def test_readme_intro_contains_identity_role_and_location(self):
-        intro = "\n".join(self.readme.splitlines()[:12]).lower()
+        intro = "\n".join(self.readme.splitlines()[:22]).lower()
         self.assertIn("jerry chong", intro)
         self.assertTrue(
             any(role in intro for role in ["enterprise architect", "solution architect", "architect"]),
@@ -34,18 +34,19 @@ class TestSEOStandards(unittest.TestCase):
         self.assertIn("malaysia", intro)
 
     def test_readme_intro_contains_ai_and_cloud_positioning(self):
-        intro = "\n".join(self.readme.splitlines()[:25]).lower()
+        intro = "\n".join(self.readme.splitlines()[:28]).lower()
         expected_signals = [
             "enterprise architecture",
-            "cloud",
-            "ai",
-            "data",
+            "cloud architecture",
+            "ai architecture",
+            "data architecture",
+            "solution architecture",
             "multi-cloud",
         ]
         found = [signal for signal in expected_signals if signal in intro]
         self.assertGreaterEqual(
             len(found),
-            4,
+            5,
             "README intro should communicate current AI, cloud, and architecture positioning.",
         )
 
@@ -53,20 +54,41 @@ class TestSEOStandards(unittest.TestCase):
         expected_keywords = [
             "cloud architecture",
             "enterprise architect",
+            "solution architecture",
             "aws",
             "azure",
             "alibaba cloud",
+            "alibaba cloud mvp",
             "terraform",
             "aviatrix",
             "fortinet",
             "ai",
             "data",
+            "sap leanix",
         ]
         found = [keyword for keyword in expected_keywords if keyword in self.readme_lower]
         self.assertGreaterEqual(
             len(found),
-            7,
+            9,
             "README should contain enough expertise keywords to support traditional and AI search relevance.",
+        )
+
+    def test_readme_establishes_authority_and_entity_signals(self):
+        authority_signals = [
+            "jerry chong",
+            "dhl",
+            "alibaba cloud mvp",
+            "tsinghua",
+            "ex-cto",
+            "ex-accenture",
+            "kuala lumpur",
+            "malaysia",
+        ]
+        found = [signal for signal in authority_signals if signal in self.readme_lower]
+        self.assertGreaterEqual(
+            len(found),
+            8,
+            "README should establish strong entity and authority signals for the Jerry Chong query.",
         )
 
     def test_readme_contains_owned_site_project_and_contact_signals(self):
@@ -93,6 +115,15 @@ class TestSEOStandards(unittest.TestCase):
             if not match or not match.group(1).strip():
                 missing_alt.append(tag)
         self.assertEqual(missing_alt, [], f"Images missing alt text: {missing_alt}")
+
+    def test_html_image_alt_text_mentions_jerry_chong_for_profile_badges(self):
+        alt_texts = re.findall(r'<img\b[^>]*alt="([^"]+)"', self.readme, flags=re.IGNORECASE)
+        profile_badge_alts = [alt.lower() for alt in alt_texts if "badge" in alt.lower() or "counter" in alt.lower()]
+        self.assertTrue(profile_badge_alts, "README should include descriptive alt text for profile badges.")
+        self.assertTrue(
+            all("jerry chong" in alt for alt in profile_badge_alts),
+            "Profile badge alt text should reinforce the Jerry Chong entity name.",
+        )
 
     def test_markdown_images_have_non_empty_alt_text(self):
         markdown_images = re.findall(r"!\[([^\]]*)\]\(([^)]+)\)", self.readme)
