@@ -11,8 +11,6 @@
 </p>
 <h3 align="center">Certified in SAP LeanIX, AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
 
-I am Jerry Chong, a solution architect based in Kuala Lumpur, Malaysia, focused on cloud architecture, IoT, platform engineering, and multi-cloud solution design. This profile highlights my current work, certifications, technical skills, open collaboration interests, and the best ways to connect with me.
-
 <br/>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychong25" />
@@ -20,7 +18,7 @@ I am Jerry Chong, a solution architect based in Kuala Lumpur, Malaysia, focused 
 </p>
 
 ### 🏛️ Professional Profile
-Aspiring Enterprise Architect based in Kuala Lumpur with a background as an **Ex-CTO** and **Ex-Accenture** consultant. 5X Multi-Cloud Certified and specialized in bridging Mechatronics Engineering logic with scalable Enterprise Solutions.
+Aspiring Enterprise Architect based in Kuala Lumpur with a background as an **Ex-CTO** and **Ex-Accenture** consultant. 5X Multi-Cloud Certified and specialized in bridging Mechatronics Engineering logic with scalable Enterprise IT Solutions.
 
 - 🛠️ **Certified in:** SAP LeanIX, AWS, Azure, Alibaba Cloud, Terraform, Aviatrix, and Fortinet.
 - 🔭 **Active Projects:** [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) & [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data).
