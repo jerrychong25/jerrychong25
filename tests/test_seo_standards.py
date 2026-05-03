@@ -72,6 +72,7 @@ class TestSEOStandards(unittest.TestCase):
     def test_readme_contains_owned_site_project_and_contact_signals(self):
         self.assertIn("https://jerrychong.xyz/", self.readme)
         self.assertIn("jerrychong25@gmail.com", self.readme)
+        self.assertIn("mailto:jerrychong25@gmail.com", self.readme)
         self.assertIn("malaysia-map-data", self.readme)
         self.assertIn("awesome-malaysia", self.readme)
 
@@ -98,6 +99,12 @@ class TestSEOStandards(unittest.TestCase):
         self.assertGreater(len(markdown_images), 0, "README should contain at least one Markdown image.")
         blank_alt = [url for alt, url in markdown_images if not alt.strip()]
         self.assertEqual(blank_alt, [], f"Markdown images missing alt text: {blank_alt}")
+
+    def test_header_links_use_compact_markdown_badges(self):
+        self.assertIn("img.shields.io/badge/Official_Website", self.readme)
+        self.assertIn("img.shields.io/badge/Portfolio_Website", self.readme)
+        self.assertIn("img.shields.io/badge/LinkedIn", self.readme)
+        self.assertIn("img.shields.io/badge/Email", self.readme)
 
     def test_sponsor_badge_uses_small_markdown_badge(self):
         self.assertIn("img.shields.io/badge/Buy%20Me%20a%20Coffee", self.readme)

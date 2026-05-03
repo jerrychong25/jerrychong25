@@ -4,12 +4,10 @@
   Domain Lead Architect @ DHL • Alibaba Cloud MVP • Tsinghua Alumni • Enterprise Architecture, Cloud, AI & Data • Ex-CTO • Ex-Accenture • 5X Multi-Cloud Certified
 </h3>
 
-<p align="center">
-  <a href="https://jerrychong.xyz"><b>Official Website</b></a> • 
-  <a href="https://jerrychong.xyz"><b>Portfolio Website</b></a> • 
-  <a href="https://linkedin.com"><b>LinkedIn</b></a> • 
-  <a href="mailto:jerrychong25@gmail.com"><b>Email</b></a>
-</p>
+[![Official Website](https://img.shields.io/badge/Official_Website-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://jerrychong.xyz/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-6F42C1?style=flat-square&logo=aboutdotme&logoColor=white)](https://jerrychong.xyz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-chong)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jerrychong25@gmail.com)
 
 <br/>
 <p align="left"> 
