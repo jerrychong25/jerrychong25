@@ -4,9 +4,6 @@
   Domain Lead Architect @ DHL • Alibaba Cloud MVP • Tsinghua Alumni • Enterprise Architecture, Cloud, AI & Data • Ex-CTO • Ex-Accenture • 5X Multi-Cloud Certified
 </h3>
 
-| [![Official Website](https://img.shields.io/badge/Official_Website-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://jerrychong.xyz/) | [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-6F42C1?style=flat-square&logo=aboutdotme&logoColor=white)](https://jerrychong.xyz/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-chong) | [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jerrychong25@gmail.com) |
-| :-: | :-: | :-: | :-: |
-
 <br/>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="Jerry Chong GitHub profile view counter" />
@@ -14,13 +11,13 @@
 </p>
 
 ### 🏛️ Professional Profile
-Jerry Chong is a Malaysia-based Enterprise Architect, Domain Lead Architect at DHL, Alibaba Cloud MVP, and Tsinghua University alumnus. He specializes in enterprise architecture, cloud architecture, AI architecture, data architecture, solution architecture, and multi-cloud transformation for scalable enterprise platforms.
+Jerry Chong is a Malaysia-based Aspiring Enterprise Architect, Domain Lead Architect at DHL, Alibaba Cloud MVP, and Tsinghua University alumnus. He specializes in Enterprise Architecture, Cloud Architecture, AI Architecture, Data Architecture, Solution Architecture, and Multi-Cloud for scalable enterprise level platforms.
 
-Based in Kuala Lumpur, Jerry Chong brings experience as an **Ex-CTO** and **Ex-Accenture** consultant with a Mechatronics Engineering background, focused on enterprise IT strategy, geospatial data initiatives, cloud modernization, and AI-enabled data systems.
+He brings experience as an **Ex-CTO** and **Ex-Accenture** consultant with a Mechatronics Engineering background, focused on enterprise IT strategy, Geospatial data initiatives, cloud modernization, and AI-enabled IT systems.
 
 - 🛠️ **Certified in:** SAP LeanIX, AWS, Azure, Alibaba Cloud, Terraform, Aviatrix, and Fortinet.
 - 🔭 **Active Projects:** [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) & [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data).
-- 🤝 **Collaboration:** Looking for contributors for Malaysian geospatial data projects.
+- 🤝 **Collaboration:** Looking for social innovator and volunteers for global impact projects.
 
 ### Some Fun Facts
 - 🔭 I’m currently working on [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) and [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
