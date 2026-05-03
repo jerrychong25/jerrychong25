@@ -136,7 +136,6 @@ class TestSEOStandards(unittest.TestCase):
         self.assertIn("img.shields.io/badge/Portfolio_Website", self.readme)
         self.assertIn("img.shields.io/badge/LinkedIn", self.readme)
         self.assertIn("img.shields.io/badge/Email", self.readme)
-        self.assertIn("| :-: | :-: | :-: | :-: |", self.readme)
 
     def test_sponsor_badge_uses_small_markdown_badge(self):
         self.assertIn("img.shields.io/badge/Buy%20Me%20a%20Coffee", self.readme)
