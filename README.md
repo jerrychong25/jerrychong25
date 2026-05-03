@@ -3,14 +3,13 @@
 <h3 align="center">
   Domain Lead Architect @ DHL • Alibaba Cloud MVP • Tsinghua Alumni • Enterprise Architecture, Cloud, AI & Data • Ex-CTO • Ex-Accenture • 5X Multi-Cloud Certified
 </h3>
-I am Jerry Chong, a solution architect and enterprise architect based in Kuala Lumpur, Malaysia, focused on cloud architecture, IoT, AI, data platforms, and multi-cloud solution design.
+
 <p align="center">
   <a href="https://jerrychong.xyz"><b>Official Website</b></a> • 
   <a href="https://jerrychong.xyz"><b>Portfolio Website</b></a> • 
   <a href="https://linkedin.com"><b>LinkedIn</b></a> • 
   <a href="mailto:jerrychong25@gmail.com"><b>Email</b></a>
 </p>
-<h3 align="center">Certified in SAP LeanIX, AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
 
 <br/>
 <p align="left"> 
