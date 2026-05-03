@@ -40,7 +40,7 @@ Aspiring Enterprise Architect based in Kuala Lumpur with a background as an **Ex
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerry-chong) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/jerrychong25) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5918539) [![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/jerrychong25) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/jerrychong25) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/jerrychong25) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jerrychong25)
 
 ### Sponsor Me
-[![Support Jerry Chong on Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jerrychong25)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/jerrychong25)
 
 ![Jerry Chong GitHub metrics dashboard](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
 

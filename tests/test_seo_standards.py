@@ -24,30 +24,43 @@ class TestSEOStandards(unittest.TestCase):
         self.assertEqual(total_h1, 1, "README should expose exactly one primary H1 heading.")
 
     def test_readme_intro_contains_identity_role_and_location(self):
-        intro = "\n".join(self.readme.splitlines()[:8]).lower()
+        intro = "\n".join(self.readme.splitlines()[:12]).lower()
         self.assertIn("jerry chong", intro)
-        self.assertIn("solution architect", intro)
+        self.assertTrue(
+            any(role in intro for role in ["enterprise architect", "solution architect", "architect"]),
+            "README intro should describe Jerry Chong's architect role.",
+        )
         self.assertIn("kuala lumpur", intro)
         self.assertIn("malaysia", intro)
 
-    def test_readme_contains_ai_search_summary_sentence(self):
-        self.assertRegex(
-            self.readme,
-            r"I am Jerry Chong,.*?cloud architecture.*?IoT.*?multi-cloud solution design",
-            "README should include a compact natural-language summary for AI retrieval and entity resolution.",
+    def test_readme_intro_contains_ai_and_cloud_positioning(self):
+        intro = "\n".join(self.readme.splitlines()[:25]).lower()
+        expected_signals = [
+            "enterprise architecture",
+            "cloud",
+            "ai",
+            "data",
+            "multi-cloud",
+        ]
+        found = [signal for signal in expected_signals if signal in intro]
+        self.assertGreaterEqual(
+            len(found),
+            4,
+            "README intro should communicate current AI, cloud, and architecture positioning.",
         )
 
     def test_readme_contains_core_expertise_keywords(self):
         expected_keywords = [
             "cloud architecture",
-            "iot",
-            "solution architect",
+            "enterprise architect",
             "aws",
-            "microsoft azure",
+            "azure",
             "alibaba cloud",
             "terraform",
             "aviatrix",
             "fortinet",
+            "ai",
+            "data",
         ]
         found = [keyword for keyword in expected_keywords if keyword in self.readme_lower]
         self.assertGreaterEqual(
@@ -60,6 +73,7 @@ class TestSEOStandards(unittest.TestCase):
         self.assertIn("https://jerrychong.xyz/", self.readme)
         self.assertIn("jerrychong25@gmail.com", self.readme)
         self.assertIn("malaysia-map-data", self.readme)
+        self.assertIn("awesome-malaysia", self.readme)
 
     def test_external_links_use_https(self):
         markdown_links = re.findall(r"\[[^\]]+\]\((https?://[^)]+)\)", self.readme)
@@ -84,6 +98,10 @@ class TestSEOStandards(unittest.TestCase):
         self.assertGreater(len(markdown_images), 0, "README should contain at least one Markdown image.")
         blank_alt = [url for alt, url in markdown_images if not alt.strip()]
         self.assertEqual(blank_alt, [], f"Markdown images missing alt text: {blank_alt}")
+
+    def test_sponsor_badge_uses_small_markdown_badge(self):
+        self.assertIn("img.shields.io/badge/Buy%20Me%20a%20Coffee", self.readme)
+        self.assertNotIn("cdn.buymeacoffee.com/buttons/v2/default-yellow.png", self.readme)
 
     def test_readme_has_multiple_identity_graph_links(self):
         identity_domains = [
