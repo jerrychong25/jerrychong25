@@ -1,30 +1,38 @@
 <h1 align="center">Hello there 👋 I'm Jerry Chong 🇲🇾</h1>
-<h3 align="center">A Passionate Solution Architect @ Kuala Lumpur, Malaysia</h3>
-<h3 align="center">Solution Architect | Ex-CTO | Ex-Accenture | Cloud Architecture | IoT | 5X Multi-Cloud Certified</h3>
-<h3 align="center">Certified in AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
+<h3 align="center">Passionate Enterprise Architect @ Kuala Lumpur, Malaysia</h3>
+<h3 align="center">
+  Domain Lead Architect @ DHL • Alibaba Cloud MVP • Tsinghua Alumni • Enterprise Architecture, Cloud, AI & Data • Ex-CTO • Ex-Accenture • 5X Multi-Cloud Certified
+</h3>
+<p align="center">
+  <a href="https://jerrychong.xyz"><b>Official Website</b></a> • 
+  <a href="https://jerrychong.xyz"><b>Portfolio Website</b></a> • 
+  <a href="https://linkedin.com"><b>LinkedIn</b></a> • 
+  <a href="mailto:jerrychong25@gmail.com"><b>Email</b></a>
+</p>
+<h3 align="center">Certified in SAP LeanIX, AWS, Microsoft Azure, Alibaba Cloud, Terraform, Aviatrix and Fortinet</h3>
 
 I am Jerry Chong, a solution architect based in Kuala Lumpur, Malaysia, focused on cloud architecture, IoT, platform engineering, and multi-cloud solution design. This profile highlights my current work, certifications, technical skills, open collaboration interests, and the best ways to connect with me.
 
+<br/>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="Jerry Chong GitHub profile view counter" />
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Jerry Chong GitHub profile hit counter"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.jerrychong25" alt="Jerry Chong GitHub visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=jerrychong25&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychong25" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.jerrychong25" alt="visitors"/>
 </p>
 
-Some facts:
+### 🏛️ Professional Profile
+Aspiring Enterprise Architect based in Kuala Lumpur with a background as an **Ex-CTO** and **Ex-Accenture** consultant. 5X Multi-Cloud Certified and specialized in bridging Mechatronics Engineering logic with scalable Enterprise Solutions.
 
-- 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
+- 🛠️ **Certified in:** SAP LeanIX, AWS, Azure, Alibaba Cloud, Terraform, Aviatrix, and Fortinet.
+- 🔭 **Active Projects:** [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) & [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data).
+- 🤝 **Collaboration:** Looking for contributors for Malaysian geospatial data projects.
 
+### Some Fun Facts
+- 🔭 I’m currently working on [awesome-malaysia](https://github.com/jerrychong25/awesome-malaysia) and [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
 - 🌱 I’m currently learning random stuffs everyday
-
 - 👯 I’m looking to collaborate on any ideas
-
 - 🤝 I’m looking for help with [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
-
-- 👨‍💻 All of my profile details are available at [https://jerrychong.xyz](https://jerrychong.xyz/)
-
+- 👨‍💻 All of my profile and portfolio details are available at [https://jerrychong.xyz](https://jerrychong.xyz/)
 - 📫 Connect me via **jerrychong25@gmail.com**
-
 - ⚡ Fun fact **Ex-Consultant from Mechatronics Engineering backgrounds**
 
 ### Skills
