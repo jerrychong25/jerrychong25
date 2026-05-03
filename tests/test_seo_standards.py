@@ -100,11 +100,12 @@ class TestSEOStandards(unittest.TestCase):
         blank_alt = [url for alt, url in markdown_images if not alt.strip()]
         self.assertEqual(blank_alt, [], f"Markdown images missing alt text: {blank_alt}")
 
-    def test_header_links_use_compact_markdown_badges(self):
+    def test_header_links_use_centered_markdown_badges(self):
         self.assertIn("img.shields.io/badge/Official_Website", self.readme)
         self.assertIn("img.shields.io/badge/Portfolio_Website", self.readme)
         self.assertIn("img.shields.io/badge/LinkedIn", self.readme)
         self.assertIn("img.shields.io/badge/Email", self.readme)
+        self.assertIn("| :-: | :-: | :-: | :-: |", self.readme)
 
     def test_sponsor_badge_uses_small_markdown_badge(self):
         self.assertIn("img.shields.io/badge/Buy%20Me%20a%20Coffee", self.readme)
