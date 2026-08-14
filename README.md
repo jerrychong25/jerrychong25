@@ -56,7 +56,3 @@ He brings experience as an **Ex-CTO** and **Ex-Accenture** consultant with a Mec
 
 ### Sponsor Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/jerrychong25)
-
-![Jerry Chong GitHub metrics dashboard](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
-
-![Jerry Chong GitHub contribution streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue)
