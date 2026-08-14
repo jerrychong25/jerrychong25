@@ -37,6 +37,17 @@ He brings experience as an **Ex-CTO** and **Ex-Accenture** consultant with a Mec
 ### Sponsor Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/jerrychong25)
 
-![Jerry Chong GitHub metrics dashboard](https://raw.githubusercontent.com/jerrychong25/jerrychong25/main/github-metrics.svg)
+### Contribution Snake 🐍
 
-![Jerry Chong GitHub contribution streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=jerrychong25&theme=vue)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerrychong25/jerrychong25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerrychong25/jerrychong25/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/jerrychong25/jerrychong25/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<div align="center">
+*"The walls you hit are just roads waiting to be built for someone else."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=130&section=footer" width="100%"/>
+</div>
